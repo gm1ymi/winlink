@@ -5,9 +5,9 @@ URL="https://api.winlink.org/channel/add"
 
 # Define the JSON payload
 JSON_PAYLOAD='{
-  "Callsign": "K1YMI-10",
-  "BaseCallsign": "K1YMI",
-  "GridSquare": "FN23NB",
+  "Callsign": "<callsign-SSID>",
+  "BaseCallsign": "<Callsign>",
+  "GridSquare": "<Grid>",
   "Frequency": 145070000,
   "Mode": "PKT",
   "Baud": 1200,
